@@ -1,7 +1,12 @@
-<div style="text-align:center">
-## Viola Jang
-### Mark-Up Engineer
+<section style="text-align:center">
+ <h1>Viola Jang</h1>
+ <h2>Mark-Up Engineer</h2>
+ 
+ <ul>
+ <li> 💁🏼‍♀️ Interesting for Web Standard and Accessbility.</li>
+ <li> 💁🏼‍♀️ Studying for front-end with Vue.js.</li>
+ </ul>
+ 
+ </section>
 
- 💁🏼‍♀️ Interesting for Web Standard and Accessbility.<br>
- 💁🏼‍♀️ Studying for front-end with Vue.js.
-</div>
+
