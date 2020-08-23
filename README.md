@@ -1,4 +1,4 @@
-<section style="text-align:center">
+<section align="center" style="text-align:center">
  <h1>Viola Jang</h1>
  <h2>Mark-Up Engineer</h2>
  
