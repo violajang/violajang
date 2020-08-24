@@ -4,7 +4,7 @@
  <h3> 💁🏼‍♀️ It happens to my repository.</h3>
  <ul>
     <li>Projects for using Web Standard and Accessibility.</li>
-    <li>Showing Studying for front-end with Vue.js.</li>
+    <li>Studying for front-end with Vue.js.</li>
     <li>Get a good project to follow.</li>
  </ul>
  
